@@ -1,0 +1,3 @@
+[submodule "voice-agent-api"]
+	path = voice-agent-api
+	url = git@github.com:laskarj/voice-agent-api.git
