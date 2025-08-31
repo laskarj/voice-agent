@@ -60,3 +60,28 @@ APIs used:
 
 ---
 
+
+## 🔹 Checklist (MVP)
+
+- [ ] Register OpenAI → get API Key  
+- [ ] (Optional) Register ElevenLabs → get API Key  
+- [ ] Build FastAPI endpoints (`/transcribe`, `/chat`, `/tts`)  
+- [ ] Integrate Whisper (ASR)  
+- [ ] Integrate GPT-4o-mini (LLM)  
+- [ ] Integrate TTS (OpenAI/ElevenLabs)  
+- [ ] Create React component `VoiceAgent`  
+- [ ] Implement WebRTC audio stream  
+- [ ] Test full cycle: speech → AI response → voice output  
+
+---
+
+## 🔹 Next Steps (after MVP)
+
+- Session handling (conversation history per user).  
+- RAG (Retrieval-Augmented Generation) with external documents.  
+- Embeddings + vector database (pgvector, Weaviate).  
+- Multi-user sessions with scaling.  
+- Deploy with HTTPS.  
+
+---
+
