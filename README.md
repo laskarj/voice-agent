@@ -63,9 +63,9 @@ APIs used:
 
 ## 🔹 Checklist (MVP)
 
-- [ ] Register OpenAI → get API Key  
-- [ ] (Optional) Register ElevenLabs → get API Key  
-- [ ] Build FastAPI endpoints (`/transcribe`, `/chat`, `/tts`)  
+- [Done] Register OpenAI → get API Key  
+- [Done] Register ElevenLabs → get API Key  
+- [Done] Build FastAPI endpoints (`/transcribe`, `/chat`, `/tts`)  
 - [ ] Integrate Whisper (ASR)  
 - [ ] Integrate GPT-4o-mini (LLM)  
 - [ ] Integrate TTS (OpenAI/ElevenLabs)  
